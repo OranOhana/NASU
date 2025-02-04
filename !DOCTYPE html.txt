@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>North African Southern University (NASU)</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+        header { background: navy; color: white; padding: 20px; text-align: center; }
+        nav { display: flex; justify-content: center; background: gold; padding: 10px; }
+        nav a { color: navy; margin: 0 15px; text-decoration: none; font-weight: bold; }
+        .container { width: 80%; margin: 20px auto; padding: 20px; background: white; box-shadow: 0px 0px 10px gray; }
+        footer { text-align: center; padding: 10px; background: navy; color: white; margin-top: 20px; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>North African Southern University (NASU)</h1>
+        <p>Innovation, Excellence, Legacy</p>
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#programs">Programs</a>
+        <a href="#campus">Campus Life</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <div class="container" id="about">
+        <h2>About NASU</h2>
+        <p>Located in Casablanca, NASU is dedicated to academic excellence, research, and global innovation.</p>
+    </div>
+    <div class="container" id="programs">
+        <h2>Programs & Admissions</h2>
+        <p>We offer degrees in Medicine, Engineering, Business, and Renewable Energy. Apply today to join NASU!</p>
+    </div>
+    <div class="container" id="campus">
+        <h2>Campus Life</h2>
+        <p>NASU provides a vibrant student experience with athletics, clubs, and cultural events.</p>
+    </div>
+    <div class="container" id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: admissions@nasu.edu | Phone: +212-XXX-XXX-XXX</p>
+    </div>
+    <footer>
+        <p>&copy; 2025 North African Southern University. All rights reserved.</p>
+    </footer>
+</body>
+</html>
